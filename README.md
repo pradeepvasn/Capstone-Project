@@ -1,14 +1,14 @@
 # Capstone-Project
 
-1.	Project Statement
+**Project Statement**
 
 The project aims to employ Legal Analytics in order to predict the winning party given a case. The primary objective of a Law Firm is to fight cases where chances of success is high. Appropriate analysis and Machine Learning models aid a firm or a lawyer to make an informed choice based on historical data and sound statistical analysis.
 
-2.	Dataset Details
+**Dataset Details**
 
 The database used dates back to the year 1946 during the beginning of Vinston Court and Warren Court. There have been many versions since then. The data available can be used with various statistical packages to perform various analyses with respect to what the business/ Law firm considers important. The advanced modelling and EDA techniques used in the project will enable the business to calculate and view relationships among the variables which shall aid the management in making informed decisions. The database consists of information from 1946. Thus with increase in information, the needed responsibility to alter/ transform the data is carried out
 
-3.	Complexity Involved
+**Complexity Involved**
 
 1.	Find the key area, gaps identified in the topic survey where the project can add value to the customers and business.
 
@@ -19,14 +19,14 @@ The database used dates back to the year 1946 during the beginning of Vinston Co
 5.	Finding out the best target variable as the dataset contained multiple potential target variables.
 
 
-4.	Project Outcome
+**Project Outcome**
 
 -	Commercial : Given the details of a case, the law firm will be able to predict the outcome which shall enable the agency to maintain a better track record and select cases where the chances of winning are high.
 
 -	Social : Should the petitioner reconsider filing a case based on model results. This will help the petitioner in saving time and money. Hence the law firm will be able to provide alternate solutions to the petitioner and gain reputation for the same.
  
 
-5.	METHODOLOGY TO BE FOLLOWED
+**METHODOLOGY TO BE FOLLOWED**
 
 
 
